@@ -3,3 +3,4 @@ opencv-python==4.7.0.72
 numpy==1.23.5
 matplotlib==3.7.0
 scikit-learn==1.2.1
+customtkinter

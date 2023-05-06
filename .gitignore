@@ -1,3 +1,4 @@
 SuperGluePretrainedNetwork
 *.jpg
 **/.DS_Store
+glue_result
